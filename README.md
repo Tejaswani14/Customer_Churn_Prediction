@@ -1,5 +1,5 @@
 # Customer_Churn_Prediction
-This project was developed as part of my Celebal Summer Internship in the Data Science domain. The primary goal is to build a machine learning model that predicts customer churn — whether a customer is likely to stop using a subscription-based service such as telecom, internet, or streaming.
+This project was developed as part of my** Celebal Summer Internship** in the Data Science domain. The primary goal is to build a machine learning model that predicts customer churn — whether a customer is likely to stop using a subscription-based service such as telecom, internet, or streaming.
 
 Customer churn is a critical business problem, and predicting it accurately can help companies proactively retain customers through personalized offers or improved service. For this project, I used the Telco Customer Churn dataset from Kaggle, which contains information about 7,000+ customers, including demographic details, service usage, and account-level features.
 
